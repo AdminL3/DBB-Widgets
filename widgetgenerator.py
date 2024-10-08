@@ -46,5 +46,8 @@ with open('output.csv', 'w', newline='', encoding='utf-8') as file:
 
     # Write the data rows
     writer.writerows(rows)
+    writer.writerow("")
+    writer.writerow(["ä", "ü", "Ü", "ß"])
+    writer.writerow(["a", "u", "U", "S"])
 
 print("Created output.csv")
