@@ -1,0 +1,44 @@
+Name;Ordnungszahl;Altersklasse;Geschlecht;Mannschafts ID;Widget ID;Code groß;Code klein
+ DJK SB München; 1; Senioren; männlich;152266;1728327368957;"
+";"
+"
+ DJK SB München 2; 2; Senioren; männlich;154153;1728327369199; ; 
+ DJK SB München 3; 3; Senioren; männlich;163923;1728327369375; ; 
+ DJK SB München 4; 4; Senioren; männlich;163914;1728327369541; ; 
+ DJK SB München; 1; U18; männlich;162955;1728327369706; ; 
+ DJK SB München; 2; U18; männlich;223272;1728327369890;<;<
+ DJK SB München; 1; U16; männlich;166180;1728327370059;d;d
+ DJK SB München 2; 2; U16; männlich;162996;1728327370220;i;i
+ DJK SB München 3; 3; U16; männlich;309729;1728327370384;v;v
+ DJK SB München; 1; U16; weiblich;319500;1728327370545; ; 
+ DJK SB München; 1; U14; männlich;165708;1728327370704;i;i
+ DJK SB München 2; 2; U14; männlich;163006;1728327370867;d;d
+ DJK SB München 3; 3; U14; männlich;314794;1728327371024;=;=
+ DJK SB München; 1; U14; weiblich;317459;1728327371185;"""";""""
+ DJK SB München 2; 2; U14; weiblich;317505;1728327371346;1;1
+ DJK SB München; 1; U12; männlich;162748;1728327371506;7;7
+ DJK SB München 2; 2; U12; männlich;310490;1728327371676;2;2
+ DJK SB München; 1; U12; weiblich;316293;1728327371841;8;8
+ DJK SB München; 1; U10; männlich;310512;1728327372005;3;3
+ DJK SB München; 2; U10; männlich;313178;1728327372175;2;2
+ DJK SB München; 1; U10; weiblich;317910;1728327372352;7;7
+ DJK SB München; 1; Ü40; männlich;165461;1728327372518;3;3
+ DJK SB München; 1; Ü40; mix;223249;1728327372671;6;6
+ DJK SB München; 1; Ü35; männlich;311561;1728327372876;8;8
+ DJK SB München; 1; Senioren; weiblich;223146;1728327373038;9;9
+ DJK SB München; 1; U20; männlich;223247;1728327373191;5;5
+ DJK SB München; 1; U18; weiblich;223246;1728327373351;7;7
+ DJK SB München 2 u18BZLQuali; 1; U17; männlich;312003;1728327373503;"""";""""
+ DJK SB München; 1; U16; mix;223221;1728327373656;>;>
+ DJK SB München; 1; U15; männlich;310694;1728327373811;<;<
+ DJK SB München 2 -Quali BOL16; 2; U15; männlich;317441;1728327373968;/;/
+ DJK SB München; 2; U14; mix;223269;1728327374142;d;d
+ DJK SB München; 1; U13; männlich;311924;1728327374300;i;i
+ DJK SB München; 1; U12; mix;223172;1728327374489;v;v
+ DJK SB München 2; 2; U12; mix;223264;1728327374646;>;>
+ DJK SB München 2 u12BZLQuali; 1; U11; männlich;311982;1728327374802;"
+";"
+"
+ DJK SB München; 1; U10; mix;165490;1728327374958; ; 
+ DJK SB München; 1; U8; männlich;310167;1728327375113; ; 
+ DJK SB München; 1; U8; mix;165491;1728327375264; ; 
