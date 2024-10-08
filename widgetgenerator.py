@@ -25,13 +25,15 @@ with open('data/code_snippets_big.txt', 'r', encoding='utf-8') as file:
 with open('data/code_snippets_small.txt', 'r', encoding='utf-8') as file:
     code_snippets_small = file.read()
 
-# Remove all line breaks in the code snippets
-# snippets_list = [snippet.replace('\n', ' ') for snippet in code_snippets.strip().split('\n\n')]
+code_snippets_big2 = [snippet.replace('\n', ' ')
+                      for snippet in code_snippets_big.strip().split('\n\n')]
+code_snippets_small2 = [snippet.replace('\n', ' ')
+                        for snippet in code_snippets_small.strip().split('\n\n')]
 
 
 # export
 rows = zip(namen, ordnungszahl, altersklasse,
-           geschlecht, mannschafts_ID, widget_ID, code_snippets_big, code_snippets_small)
+           geschlecht, mannschafts_ID, widget_ID, code_snippets_big2, code_snippets_small2)
 
 # Write to a CSV file using a semicolon delimiter
 with open('output.csv', 'w', newline='', encoding='utf-8') as file:
@@ -44,3 +46,5 @@ with open('output.csv', 'w', newline='', encoding='utf-8') as file:
 
     # Write the data rows
     writer.writerows(rows)
+
+print("Created output.csv")
