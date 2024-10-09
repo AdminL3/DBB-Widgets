@@ -44,9 +44,11 @@ for element in elements:
 print(len(abschnitte))
 Namen = []
 Ordnungszahl = []
+Spielklasse = []
 Altersklasse = []
 Geschlecht = []
-urls = []
+Liganame = []
+Liganummer = []
 tags = []
 for abschnitt in abschnitte:
     tags = abschnitt.find_elements(By.CSS_SELECTOR, "nobr")
@@ -54,33 +56,33 @@ for abschnitt in abschnitte:
     if len(tags) >= 2:
         Namen.append(tags[0].text)
         Ordnungszahl.append(tags[1].text)
-        Altersklasse.append(tags[2].text)
-        Geschlecht.append(tags[3].text)
-        urls.append(a_tags[-1].get_attribute('href'))
+        Spielklasse.append(tags[2].text)
+        Altersklasse.append(tags[3].text)
+        Geschlecht.append(tags[4].text)
+        Liganame.append(tags[5].text)
+        Liganummer.append(tags[6].text)
 
 
-pattern = r'/(\d+)$'
-with open('Mannschaft_ID.txt', 'w') as file:
-    for data in urls:
-        match = re.search(pattern, data)
-        if match:
-            file.write(f"{match.group(1)}\n")
-
-
-with open('data/Namen.txt', 'w') as file:
+with open('data/Liga/Namen.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Namen)
 
-with open('data/Ordnungszahl.txt', 'w') as file:
+with open('data/Liga/Ordnungszahl.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Ordnungszahl)
 
-with open('data/Altersklasse.txt', 'w') as file:
+with open('data/Liga/Spielklasse.txt', 'w') as file:
+    file.writelines(f"{data}\n" for data in Spielklasse)
+
+with open('data/Liga/Altersklasse.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Altersklasse)
 
-with open('data/Geschlecht.txt', 'w') as file:
+with open('data/Liga/Geschlecht.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Geschlecht)
 
-with open('data/urls.txt', 'w') as file:
-    file.writelines(f"{data}\n" for data in urls)
+with open('data/Liga/Liganame.txt', 'w') as file:
+    file.writelines(f"{data}\n" for data in Liganame)
+
+with open('data/Liga/Liganummer.txt', 'w') as file:
+    file.writelines(f"{data}\n" for data in Liganummer)
 
 
 for i in range(2):
