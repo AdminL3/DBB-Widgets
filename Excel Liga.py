@@ -6,11 +6,17 @@ with open('data/Liga/Namen.txt', 'r', encoding='latin-1') as file:
 with open('data/Liga/Ordnungszahl.txt', 'r', encoding='latin-1') as file:
     ordnungszahl = file.read().splitlines()
 
+with open('data/Liga/Spielklasse.txt', 'r', encoding='latin-1') as file:
+    spielklasse = file.read().splitlines()
+
 with open('data/Liga/Altersklasse.txt', 'r', encoding='latin-1') as file:
     altersklasse = file.read().splitlines()
 
 with open('data/Liga/Geschlecht.txt', 'r', encoding='latin-1') as file:
     geschlecht = file.read().splitlines()
+
+with open('data/Liga/Liganame.txt', 'r', encoding='latin-1') as file:
+    liganame = file.read().splitlines()
 
 with open('data/Liga/Liganummer.txt', 'r', encoding='latin-1') as file:
     liganummer = file.read().splitlines()
@@ -33,8 +39,8 @@ code_snippets_small2 = [snippet.replace('\n', ' ')
 
 
 # export
-rows = zip(namen, ordnungszahl, altersklasse,
-           geschlecht, liganummer, widget_ID, code_snippets_big2, code_snippets_small2)
+rows = zip(namen, ordnungszahl, spielklasse, altersklasse,
+           geschlecht, liganame, liganummer, widget_ID, code_snippets_big2, code_snippets_small2)
 
 # Write to a CSV file using a semicolon delimiter
 with open('output.csv', 'w', newline='', encoding='utf-8') as file:
@@ -42,8 +48,8 @@ with open('output.csv', 'w', newline='', encoding='utf-8') as file:
                         quoting=csv.QUOTE_MINIMAL)
 
     # Write the header
-    writer.writerow(['Name', 'Ordnungszahl', 'Altersklasse',
-                    'Geschlecht', 'Mannschafts ID', 'Widget ID', 'Code groß', 'Code klein'])
+    writer.writerow(['Name', 'Ordnungszahl', 'Spielklasse' 'Altersklasse',
+                    'Geschlecht', 'Liganame', 'Liganummer', 'Widget ID', 'Code groß', 'Code klein'])
 
     # Write the data rows
     writer.writerows(rows)
