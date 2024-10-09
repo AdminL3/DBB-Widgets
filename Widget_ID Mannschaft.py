@@ -26,7 +26,7 @@ for url in urls:
 
 print(Widget_IDs)
 
-with open('data/Widget_ID.txt', 'w') as file:
+with open('data/Mannschaft/Widget_ID.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Widget_IDs)
 
 

@@ -60,26 +60,26 @@ for abschnitt in abschnitte:
 
 
 pattern = r'/(\d+)$'
-with open('Mannschaft_ID.txt', 'w') as file:
+with open('data/Mannschaft/Mannschaft_ID.txt', 'w') as file:
     for data in urls:
         match = re.search(pattern, data)
         if match:
             file.write(f"{match.group(1)}\n")
 
 
-with open('data/Namen.txt', 'w') as file:
+with open('data/Mannschaft/Namen.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Namen)
 
-with open('data/Ordnungszahl.txt', 'w') as file:
+with open('data/Mannschaft/Ordnungszahl.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Ordnungszahl)
 
-with open('data/Altersklasse.txt', 'w') as file:
+with open('data/Mannschaft/Altersklasse.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Altersklasse)
 
-with open('data/Geschlecht.txt', 'w') as file:
+with open('data/Mannschaft/Geschlecht.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in Geschlecht)
 
-with open('data/urls.txt', 'w') as file:
+with open('data/Mannschaft/urls.txt', 'w') as file:
     file.writelines(f"{data}\n" for data in urls)
 
 
