@@ -43,7 +43,7 @@ rows = zip(namen, ordnungszahl, spielklasse, altersklasse,
            geschlecht, liganame, liganummer, widget_ID, code_snippets_big2, code_snippets_small2)
 
 # Write to a CSV file using a semicolon delimiter
-with open('output.csv', 'w', newline='', encoding='utf-8') as file:
+with open('Liga.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file, delimiter=';', quotechar='"',
                         quoting=csv.QUOTE_MINIMAL)
 
@@ -57,4 +57,4 @@ with open('output.csv', 'w', newline='', encoding='utf-8') as file:
     writer.writerow(["ä", "ü", "Ü", "ß"])
     writer.writerow(["a", "u", "U", "S"])
 
-print("Created output.csv")
+print("Created Liga.csv")

@@ -36,7 +36,7 @@ rows = zip(namen, ordnungszahl, altersklasse,
            geschlecht, mannschafts_ID, widget_ID, code_snippets_big2, code_snippets_small2)
 
 # Write to a CSV file using a semicolon delimiter
-with open('output.csv', 'w', newline='', encoding='utf-8') as file:
+with open('Mannschaft.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file, delimiter=';', quotechar='"',
                         quoting=csv.QUOTE_MINIMAL)
 
@@ -47,7 +47,8 @@ with open('output.csv', 'w', newline='', encoding='utf-8') as file:
     # Write the data rows
     writer.writerows(rows)
     writer.writerow("")
+    # write umlaute for excel easy replace
     writer.writerow(["ä", "ü", "Ü", "ß"])
     writer.writerow(["a", "u", "U", "S"])
 
-print("Created output.csv")
+print("Created Mannschaft.csv")
