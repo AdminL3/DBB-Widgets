@@ -30,15 +30,15 @@ time.sleep(0.2)
 
 driver.get('https://www.basketball-bund.net/index.jsp?Action=8860&sort_liga_altersklasse_sortorder=asc&topsort=liga_altersklasse_sortorder')
 tables = driver.find_elements(
-    By.XPATH, "//table[@class='sportView' and @width='100%' and @cellpadding='0' and @cellspacing='1' and @border='0']")
-elements = tables[2].find_elements(By.CSS_SELECTOR, 'tr')
+    By.CSS_SELECTOR, 'table.sportView[width="100%"][cellpadding="0"][cellspacing="1"][border="0"]')
+elements = tables[1].find_elements(By.CSS_SELECTOR, 'tr')
 
-
+elements.pop(0)
 print(f"ELements: {len(elements)}")
 abschnitte = []
 for element in elements:
     tags = element.find_elements(By.CSS_SELECTOR, "td")
-    if len(tags) == 6:
+    if len(tags) == 8:
         abschnitte.append(element)
 
 print(len(abschnitte))
