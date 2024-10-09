@@ -20,9 +20,9 @@ with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='latin-1') as file:
 
 
 # Read the content of the code_snippets.txt file
-with open('data/code_snippets_big.txt', 'r', encoding='utf-8') as file:
+with open('data/Mannschaft/code_snippets_big.txt', 'r', encoding='utf-8') as file:
     code_snippets_big = file.read()
-with open('data/code_snippets_small.txt', 'r', encoding='utf-8') as file:
+with open('data/Mannschaft/code_snippets_small.txt', 'r', encoding='utf-8') as file:
     code_snippets_small = file.read()
 
 code_snippets_big2 = [snippet.replace('\n', ' ')
