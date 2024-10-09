@@ -48,7 +48,7 @@ with open('Liga.csv', 'w', newline='', encoding='utf-8') as file:
                         quoting=csv.QUOTE_MINIMAL)
 
     # Write the header
-    writer.writerow(['Name', 'Ordnungszahl', 'Spielklasse' 'Altersklasse',
+    writer.writerow(['Name', 'Ordnungszahl', 'Spielklasse', 'Altersklasse',
                     'Geschlecht', 'Liganame', 'Liganummer', 'Widget ID', 'Code groß', 'Code klein'])
 
     # Write the data rows
