@@ -1,7 +1,7 @@
-with open('data/Widget_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='latin-1') as file:
     Widget_IDs = file.read().splitlines()
 
-with open('data/Mannschaft_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Mannschaft_ID.txt', 'r', encoding='latin-1') as file:
     Mannschaft_IDs = file.read().splitlines()
 
 code_long = []
@@ -29,9 +29,9 @@ for widget_id, manschaft_id in zip(Widget_IDs, Mannschaft_IDs):
     code_short.append(script_code_short)
 
 # Write the properly formatted code to the file
-with open('data/code_snippets_big.txt', 'w', encoding='utf-8') as file:
+with open('data/Mannschaft/code_snippets_big.txt', 'w', encoding='utf-8') as file:
     for snippet in code_long:
         file.write(snippet + "\n")
-with open('data/code_snippets_small.txt', 'w', encoding='utf-8') as file:
+with open('data/Mannschaft/code_snippets_small.txt', 'w', encoding='utf-8') as file:
     for snippet in code_short:
         file.write(snippet + "\n")
