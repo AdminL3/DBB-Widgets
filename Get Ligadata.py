@@ -60,7 +60,7 @@ for abschnitt in abschnitte:
         Altersklasse.append(tags[3].text)
         Geschlecht.append(tags[4].text)
         Liganame.append(tags[5].text)
-        Liganummer.append(tags[6].text)
+        Liganummer.append(tags[6].text.strip())
 
 
 with open('data/Liga/Namen.txt', 'w') as file:
