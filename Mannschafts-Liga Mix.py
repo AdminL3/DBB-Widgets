@@ -1,3 +1,5 @@
+import pyperclip
+
 with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='latin-1') as file:
     Widget_IDsM = file.read().splitlines()
 with open('data/Liga/Widget_ID.txt', 'r', encoding='latin-1') as file:
@@ -43,6 +45,6 @@ code = f'''
                 }});
     </script>
 '''
-
+pyperclip.copy(code)
 with open(f'data/code_mix_{M},{L}.txt', 'w', encoding='utf-8') as file:
     file.write(code + "\n")

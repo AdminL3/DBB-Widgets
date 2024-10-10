@@ -1,3 +1,5 @@
+import pyperclip
+
 with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='latin-1') as file:
     Widget_IDs = file.read().splitlines()
 
@@ -40,5 +42,7 @@ code = f'''
 
 '''
 
+
+pyperclip.copy(code)
 with open(f'data/code_mix_{M1},{M2}.txt', 'w', encoding='utf-8') as file:
     file.write(code + "\n")
