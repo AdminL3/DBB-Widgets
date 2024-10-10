@@ -1,5 +1,7 @@
-2
-0
-1
-Herren 1
-Herren 2
+3
+15
+16
+17
+U12 1
+U12 2
+U12 Weiblich
