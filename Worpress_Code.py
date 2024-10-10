@@ -6,9 +6,6 @@ import urllib.parse
 def encode_url_and_base64(input_string):
     # Step 1: URL encode
     url_encoded = urllib.parse.quote(input_string)
-    print("After URL encoding:")
-    print(url_encoded)
-    print()
 
     # Step 2: Encode to Base64
     base64_encoded = base64.b64encode(
@@ -70,3 +67,4 @@ result += anfang
 result += middleparte
 result += end
 pyperclip.copy(result)
+print("Copied to clipboard!")
