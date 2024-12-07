@@ -42,12 +42,14 @@ code_snippets_big2 = [snippet.replace('\n', ' ')
 code_snippets_small2 = [snippet.replace('\n', ' ')
                         for snippet in code_snippets_small.strip().split('\n\n')]
 
+lenght = len(namen)
+indeces = list(range(lenght + 1))
 # Combine rows
-rows = zip(namen, ordnungszahl, spielklasse, altersklasse,
+rows = zip(indeces, namen, ordnungszahl, spielklasse, altersklasse,
            geschlecht, liganame, liganummer, widget_ID, code_snippets_big2, code_snippets_small2)
 
 # Write the header to the worksheet
-worksheet.append(['Name', 'Ordnungszahl', 'Spielklasse', 'Altersklasse',
+worksheet.append(['Index', 'Name', 'Ordnungszahl', 'Spielklasse', 'Altersklasse',
                   'Geschlecht', 'Liganame', 'Liganummer', 'Widget ID', 'Code groß', 'Code klein'])
 
 # Write the data rows to the worksheet
