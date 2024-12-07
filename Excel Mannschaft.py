@@ -1,4 +1,10 @@
 import csv
+from openpyxl import Workbook
+
+# Create a new workbook and select the active worksheet
+workbook = Workbook()
+worksheet = workbook.active
+worksheet.title = "Liga Data"
 
 with open('data/Mannschaft/Namen.txt', 'r', encoding='utf8') as file:
     namen = file.read().splitlines()
@@ -35,20 +41,16 @@ code_snippets_small2 = [snippet.replace('\n', ' ')
 rows = zip(namen, ordnungszahl, altersklasse,
            geschlecht, mannschafts_ID, widget_ID, code_snippets_big2, code_snippets_small2)
 
-# Write to a CSV file using a semicolon delimiter
-with open('data/Mannschaft.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file, delimiter=';', quotechar='"',
-                        quoting=csv.QUOTE_MINIMAL)
 
-    # Write the header
-    writer.writerow(['Name', 'Ordnungszahl', 'Altersklasse',
-                    'Geschlecht', 'Mannschafts ID', 'Widget ID', 'Code groß', 'Code klein'])
+# Write the header to the worksheet
+worksheet.append(['Name', 'Ordnungszahl', 'Spielklasse', 'Altersklasse',
+                  'Geschlecht', 'Liganame', 'Liganummer', 'Widget ID', 'Code groß', 'Code klein'])
 
-    # Write the data rows
-    writer.writerows(rows)
-    writer.writerow("")
-    # write umlaute for excel easy replace
-    writer.writerow(["ä", "ü", "Ü", "ß"])
-    writer.writerow(["a", "u", "U", "S"])
+# Write the data rows to the worksheet
+for row in rows:
+    worksheet.append(row)
 
-print("Created Mannschaft.csv")
+# Save the workbook to an Excel file
+workbook.save('data/Mannschaft.xlsx')
+
+print("Created Mannschaft.xlsx")
