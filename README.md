@@ -24,3 +24,7 @@
 - Enter Ligaindex: Here: 8 & 7
 - Enter Tabname: Here: U18/1 & U18/2
 - Paste on wordpress after: Spielplan & Tabelle
+
+### Extra
+
+What I did is you can put two widgets together, but that doesnt work for mobile which is why i deleted it.
