@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-with open('data/urls.txt', 'r', encoding='utf-8') as file:
+with open('data/Mannschaft/urls.txt', 'r', encoding='utf-8') as file:
     urls = file.read().splitlines()
 
 options = webdriver.ChromeOptions()
