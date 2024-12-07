@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-with open('data/Liga/Liganummer.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Liganummer.txt', 'r', encoding='utf-8') as file:
     liganummer = file.read().splitlines()
 
 options = webdriver.ChromeOptions()

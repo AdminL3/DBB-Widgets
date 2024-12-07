@@ -1,14 +1,14 @@
 import pyperclip
 
-with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='utf-8') as file:
     Widget_IDsM = file.read().splitlines()
-with open('data/Liga/Widget_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Widget_ID.txt', 'r', encoding='utf-8') as file:
     Widget_IDsL = file.read().splitlines()
 
-with open('data/Mannschaft/Mannschaft_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Mannschaft_ID.txt', 'r', encoding='utf-8') as file:
     Mannschaft_IDs = file.read().splitlines()
 
-with open('data/Liga/Liganummer.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Liganummer.txt', 'r', encoding='utf-8') as file:
     liganummer = file.read().splitlines()
 
 

@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-with open('data/urls.txt', 'r', encoding='latin-1') as file:
+with open('data/urls.txt', 'r', encoding='utf-8') as file:
     urls = file.read().splitlines()
 
 options = webdriver.ChromeOptions()
@@ -26,7 +26,7 @@ for url in urls:
 
 print(Widget_IDs)
 
-with open('data/Mannschaft/Widget_ID.txt', 'w') as file:
+with open('data/Mannschaft/Widget_ID.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Widget_IDs)
 
 

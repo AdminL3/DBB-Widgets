@@ -25,7 +25,7 @@ code_snippets_big2 = [snippet.replace('\n', ' ')
                       for snippet in code_snippets_big.strip().split('\n\n')]
 
 
-with open('input.txt', 'r', encoding='latin-1') as file:
+with open('input.txt', 'r', encoding='utf-8') as file:
     input = file.read().splitlines()
 indeces = []
 names = []

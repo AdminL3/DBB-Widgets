@@ -1,7 +1,7 @@
-with open('data/Liga/Widget_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Widget_ID.txt', 'r', encoding='utf-8') as file:
     Widget_IDs = file.read().splitlines()
 
-with open('data/Liga/liganummer.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/liganummer.txt', 'r', encoding='utf-8') as file:
     liganummern = file.read().splitlines()
 
 code_long = []
