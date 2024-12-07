@@ -1,0 +1,273 @@
+
+    <div id="widget_1733573700872"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573700872',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"152266"} );
+    </script>
+    
+
+    <div id="widget_1733573701194"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573701194',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"154153"} );
+    </script>
+    
+
+    <div id="widget_1733573701425"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573701425',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"163923"} );
+    </script>
+    
+
+    <div id="widget_1733573701687"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573701687',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"163914"} );
+    </script>
+    
+
+    <div id="widget_1733573701932"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573701932',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"162955"} );
+    </script>
+    
+
+    <div id="widget_1733573702146"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573702146',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223272"} );
+    </script>
+    
+
+    <div id="widget_1733573702359"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573702359',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"166180"} );
+    </script>
+    
+
+    <div id="widget_1733573702568"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573702568',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"162996"} );
+    </script>
+    
+
+    <div id="widget_1733573702768"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573702768',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"309729"} );
+    </script>
+    
+
+    <div id="widget_1733573702946"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573702946',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"319500"} );
+    </script>
+    
+
+    <div id="widget_1733573703126"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573703126',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"165708"} );
+    </script>
+    
+
+    <div id="widget_1733573703306"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573703306',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"163006"} );
+    </script>
+    
+
+    <div id="widget_1733573703486"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573703486',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"314794"} );
+    </script>
+    
+
+    <div id="widget_1733573703674"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573703674',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"317459"} );
+    </script>
+    
+
+    <div id="widget_1733573703861"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573703861',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"317505"} );
+    </script>
+    
+
+    <div id="widget_1733573704047"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573704047',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"162748"} );
+    </script>
+    
+
+    <div id="widget_1733573704230"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573704230',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"310490"} );
+    </script>
+    
+
+    <div id="widget_1733573704425"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573704425',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"316293"} );
+    </script>
+    
+
+    <div id="widget_1733573704614"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573704614',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"310512"} );
+    </script>
+    
+
+    <div id="widget_1733573704799"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573704799',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"313178"} );
+    </script>
+    
+
+    <div id="widget_1733573704997"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573704997',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"317910"} );
+    </script>
+    
+
+    <div id="widget_1733573705209"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573705209',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"165461"} );
+    </script>
+    
+
+    <div id="widget_1733573705406"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573705406',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223249"} );
+    </script>
+    
+
+    <div id="widget_1733573705600"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573705600',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"311561"} );
+    </script>
+    
+
+    <div id="widget_1733573705815"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573705815',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223146"} );
+    </script>
+    
+
+    <div id="widget_1733573706050"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573706050',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223247"} );
+    </script>
+    
+
+    <div id="widget_1733573706258"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573706258',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223246"} );
+    </script>
+    
+
+    <div id="widget_1733573706447"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573706447',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"312003"} );
+    </script>
+    
+
+    <div id="widget_1733573706631"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573706631',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223221"} );
+    </script>
+    
+
+    <div id="widget_1733573706838"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573706838',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"310694"} );
+    </script>
+    
+
+    <div id="widget_1733573707077"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573707077',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"317441"} );
+    </script>
+    
+
+    <div id="widget_1733573707272"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573707272',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223269"} );
+    </script>
+    
+
+    <div id="widget_1733573707460"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573707460',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"311924"} );
+    </script>
+    
+
+    <div id="widget_1733573707667"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573707667',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223172"} );
+    </script>
+    
+
+    <div id="widget_1733573707904"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573707904',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"223264"} );
+    </script>
+    
+
+    <div id="widget_1733573708108"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573708108',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"311982"} );
+    </script>
+    
+
+    <div id="widget_1733573708301"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573708301',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"165490"} );
+    </script>
+    
+
+    <div id="widget_1733573708488"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573708488',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"310167"} );
+    </script>
+    
+
+    <div id="widget_1733573708690"></div>
+    <script>
+        widget.mannschaftswidget('widget_1733573708690',
+            {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":false,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"mannschaftsId":"165491"} );
+    </script>
+    

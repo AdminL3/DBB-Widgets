@@ -1,0 +1,168 @@
+
+    <div id="widget_1733573630739"></div>
+        <script>
+            widget.ligawidget('widget_1733573630739',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"20098","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573631017"></div>
+        <script>
+            widget.ligawidget('widget_1733573631017',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"20006","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573631315"></div>
+        <script>
+            widget.ligawidget('widget_1733573631315',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"20100","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573631543"></div>
+        <script>
+            widget.ligawidget('widget_1733573631543',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21102","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573631756"></div>
+        <script>
+            widget.ligawidget('widget_1733573631756',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21103","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573631978"></div>
+        <script>
+            widget.ligawidget('widget_1733573631978',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"299","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573632179"></div>
+        <script>
+            widget.ligawidget('widget_1733573632179',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"202","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573632416"></div>
+        <script>
+            widget.ligawidget('widget_1733573632416',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210056","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573632634"></div>
+        <script>
+            widget.ligawidget('widget_1733573632634',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210046","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573632835"></div>
+        <script>
+            widget.ligawidget('widget_1733573632835',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"20168","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573633034"></div>
+        <script>
+            widget.ligawidget('widget_1733573633034',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210048","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573633229"></div>
+        <script>
+            widget.ligawidget('widget_1733573633229',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21109","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573633443"></div>
+        <script>
+            widget.ligawidget('widget_1733573633443',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21126","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573633669"></div>
+        <script>
+            widget.ligawidget('widget_1733573633669',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210051","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573633874"></div>
+        <script>
+            widget.ligawidget('widget_1733573633874',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21119","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573634076"></div>
+        <script>
+            widget.ligawidget('widget_1733573634076',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21112","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573634270"></div>
+        <script>
+            widget.ligawidget('widget_1733573634270',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21106","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573634469"></div>
+        <script>
+            widget.ligawidget('widget_1733573634469',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"20149","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573634676"></div>
+        <script>
+            widget.ligawidget('widget_1733573634676',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210060","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573634926"></div>
+        <script>
+            widget.ligawidget('widget_1733573634926',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21118","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573635135"></div>
+        <script>
+            widget.ligawidget('widget_1733573635135',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21244","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573635321"></div>
+        <script>
+            widget.ligawidget('widget_1733573635321',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210054","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573635531"></div>
+        <script>
+            widget.ligawidget('widget_1733573635531',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"210055","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
+
+    <div id="widget_1733573635722"></div>
+        <script>
+            widget.ligawidget('widget_1733573635722',
+                    {"iframeWidth":1200,"iframeHeight":600,"showRefreshButton":true,"titleColor":"FFFFFF","titleBgColor":"00CC00","tapColor":"FFFFFF","tapBgColor":"333333","colorMatchGroup":"666666","bgColorMatchGroup":"F0F0F0","colorMatchListItem":"000000","bgColorMatchListItem":"FFFFFF","showKuerzelInSpiele":false,"ligaNr":"21122","vereinsId":"977","rangeDays":8,"activeTap":"tabelle","tapColorActive":"FFFFFF","tapBgColorActive":"000000","tapBorderColorActive":"00CC00","colorTableHeader":"666666","bgColorTableHeader":"F0F0F0","colorTableListItem":"000000","bgColorTableListItem":"FFFFFF","colorTableListItem2":"000000","bgColorTableListItem2":"FFFFFF","showKuerzelInTabelle":false});
+        </script>
+    
