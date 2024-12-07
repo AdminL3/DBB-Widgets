@@ -34,6 +34,7 @@ preset = ""
 print('Anzahl')
 len = int(input())
 preset += str(len)
+preset += "\n"
 mannschafts_index = []
 liga_index = []
 names = []
@@ -45,9 +46,11 @@ for i in range(3):
         a = input()
         arrays[i].append(a)
         preset += a
+        preset += "\n"
 
 print("Name: ")
 name = input()
+preset += name
 with open(f'output/presets/{name}.txt', 'w', encoding='utf-8') as file:
     file.write(preset)
 for i in range(len):
