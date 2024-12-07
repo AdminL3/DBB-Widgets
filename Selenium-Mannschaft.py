@@ -23,9 +23,9 @@ driver.find_element(By.ID, 'cmpbntyestxt').click()
 driver.get('https://www.basketball-bund.net/login.do?reqCode=showLogin')
 
 user = driver.find_element(By.NAME, 'username')
-password = driver.find_element(By.NAME, 'password')
+passw = driver.find_element(By.NAME, 'password')
 user.send_keys(username)
-password.send_keys(password)
+passw.send_keys(password)
 driver.find_element(
     By.CSS_SELECTOR, 'a.button.singleClickAction[href="javascript:login();"][title="klicken Sie hier, um Sich anzumelden!"]').click()
 
@@ -70,19 +70,19 @@ with open('data/Mannschaft/Mannschaft_ID.txt', 'w') as file:
             file.write(f"{match.group(1)}\n")
 
 
-with open('data/Mannschaft/Namen.txt', 'w') as file:
+with open('data/Mannschaft/Namen.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Namen)
 
-with open('data/Mannschaft/Ordnungszahl.txt', 'w') as file:
+with open('data/Mannschaft/Ordnungszahl.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Ordnungszahl)
 
-with open('data/Mannschaft/Altersklasse.txt', 'w') as file:
+with open('data/Mannschaft/Altersklasse.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Altersklasse)
 
-with open('data/Mannschaft/Geschlecht.txt', 'w') as file:
+with open('data/Mannschaft/Geschlecht.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Geschlecht)
 
-with open('data/Mannschaft/urls.txt', 'w') as file:
+with open('data/Mannschaft/urls.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in urls)
 
 

@@ -1,4 +1,4 @@
- Vorbereitungsspiele (ByLH-PRE)
+  (U) Vorbereitungsspiele (ByLH-PRE)
  Bayernliga Herren Süd (ByLHS)
  Bayernpokal Herren Saison 24/25
  Bezirksklasse Herren West (BKH) 2024/2025
@@ -20,5 +20,5 @@
  Kreisliga u12m-A West (KLu12m-A) 2024/2025
  Kreisliga u12w Zentral (klu12w-Z) 2024/25
  Bezirksoberliga u10 (u10BOL) 2024/25
- Bezirksoberliga u10 (u10bol) 2024/25
+ Bezirksoberliga u10 wbl (bolu10w) 2024/25
  Kreisklasse u10m-A West (KKu10m-A) 2024/2025

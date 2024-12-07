@@ -2,3 +2,4 @@
 config.py
 Backup
 .vscode
+/__pycache__
