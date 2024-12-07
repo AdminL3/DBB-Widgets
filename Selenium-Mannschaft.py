@@ -63,6 +63,8 @@ for abschnitt in abschnitte:
         urls.append(a_tags[-1].get_attribute('href'))
 
 
+root = "data/Mannschaft/"
+os.makedirs(root, exist_ok=True)
 pattern = r'/(\d+)$'
 with open('data/Mannschaft/Mannschaft_ID.txt', 'w') as file:
     for data in urls:
@@ -70,8 +72,6 @@ with open('data/Mannschaft/Mannschaft_ID.txt', 'w') as file:
         if match:
             file.write(f"{match.group(1)}\n")
 
-root = "data/Mannschaft/"
-os.makedirs(root, exist_ok=True)
 with open('data/Mannschaft/Namen.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Namen)
 
