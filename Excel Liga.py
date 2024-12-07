@@ -1,27 +1,27 @@
 import csv
 
-with open('data/Liga/Namen.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Namen.txt', 'r', encoding='UTF-8') as file:
     namen = file.read().splitlines()
 
-with open('data/Liga/Ordnungszahl.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Ordnungszahl.txt', 'r', encoding='UTF-8') as file:
     ordnungszahl = file.read().splitlines()
 
-with open('data/Liga/Spielklasse.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Spielklasse.txt', 'r', encoding='UTF-8') as file:
     spielklasse = file.read().splitlines()
 
-with open('data/Liga/Altersklasse.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Altersklasse.txt', 'r', encoding='UTF-8') as file:
     altersklasse = file.read().splitlines()
 
-with open('data/Liga/Geschlecht.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Geschlecht.txt', 'r', encoding='UTF-8') as file:
     geschlecht = file.read().splitlines()
 
-with open('data/Liga/Liganame.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Liganame.txt', 'r', encoding='UTF-8') as file:
     liganame = file.read().splitlines()
 
-with open('data/Liga/Liganummer.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Liganummer.txt', 'r', encoding='UTF-8') as file:
     liganummer = file.read().splitlines()
 
-with open('data/Liga/Widget_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Liga/Widget_ID.txt', 'r', encoding='UTF-8') as file:
     widget_ID = file.read().splitlines()
 
 
@@ -54,7 +54,7 @@ with open('data/Liga.csv', 'w', newline='', encoding='utf-8') as file:
     # Write the data rows
     writer.writerows(rows)
     writer.writerow("")
-    writer.writerow(["ä", "ü", "Ü", "ß"])
-    writer.writerow(["a", "u", "U", "S"])
+    writer.writerow(["ä", "ü"])
+    writer.writerow(["a", "u", "S"])
 
 print("Created Liga.csv")

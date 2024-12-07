@@ -63,25 +63,25 @@ for abschnitt in abschnitte:
         Liganummer.append(tags[6].text.strip())
 
 
-with open('data/Liga/Namen.txt', 'w') as file:
+with open('data/Liga/Namen.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Namen)
 
-with open('data/Liga/Ordnungszahl.txt', 'w') as file:
+with open('data/Liga/Ordnungszahl.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Ordnungszahl)
 
-with open('data/Liga/Spielklasse.txt', 'w') as file:
+with open('data/Liga/Spielklasse.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Spielklasse)
 
-with open('data/Liga/Altersklasse.txt', 'w') as file:
+with open('data/Liga/Altersklasse.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Altersklasse)
 
-with open('data/Liga/Geschlecht.txt', 'w') as file:
+with open('data/Liga/Geschlecht.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Geschlecht)
 
-with open('data/Liga/Liganame.txt', 'w') as file:
+with open('data/Liga/Liganame.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Liganame)
 
-with open('data/Liga/Liganummer.txt', 'w') as file:
+with open('data/Liga/Liganummer.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Liganummer)
 
 

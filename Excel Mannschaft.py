@@ -1,21 +1,21 @@
 import csv
 
-with open('data/Mannschaft/Namen.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Namen.txt', 'r', encoding='utf8') as file:
     namen = file.read().splitlines()
 
-with open('data/Mannschaft/Ordnungszahl.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Ordnungszahl.txt', 'r', encoding='UTF-8') as file:
     ordnungszahl = file.read().splitlines()
 
-with open('data/Mannschaft/Altersklasse.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Altersklasse.txt', 'r', encoding='UTF-8') as file:
     altersklasse = file.read().splitlines()
 
-with open('data/Mannschaft/Geschlecht.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Geschlecht.txt', 'r', encoding='UTF-8') as file:
     geschlecht = file.read().splitlines()
 
-with open('data/Mannschaft/Mannschaft_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Mannschaft_ID.txt', 'r', encoding='UTF-8') as file:
     mannschafts_ID = file.read().splitlines()
 
-with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='latin-1') as file:
+with open('data/Mannschaft/Widget_ID.txt', 'r', encoding='UTF-8') as file:
     widget_ID = file.read().splitlines()
 
 
