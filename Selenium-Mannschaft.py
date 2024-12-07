@@ -1,3 +1,4 @@
+import os
 import re
 import time
 from selenium import webdriver
@@ -69,7 +70,8 @@ with open('data/Mannschaft/Mannschaft_ID.txt', 'w') as file:
         if match:
             file.write(f"{match.group(1)}\n")
 
-
+root = "data/Mannschaft/"
+os.makedirs(root, exist_ok=True)
 with open('data/Mannschaft/Namen.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Namen)
 

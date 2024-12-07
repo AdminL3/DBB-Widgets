@@ -1,3 +1,4 @@
+import os
 import re
 import time
 from selenium import webdriver
@@ -63,6 +64,8 @@ for abschnitt in abschnitte:
         Liganummer.append(tags[6].text.strip())
 
 
+root = "data/Liga/"
+os.makedirs(root, exist_ok=True)
 with open('data/Liga/Namen.txt', 'w', encoding="UTF-8") as file:
     file.writelines(f"{data}\n" for data in Namen)
 
