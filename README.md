@@ -14,36 +14,28 @@
 
 - Use the Excel Liga and Manschaft .py to export it to a Excel file
 
-### 5. Use the Excel file to generate the widgets
+## Generate Widgets
 
-#### 1. Both (Spiele & Tabelle) Widgets
+### 1. Using Input.txt
 
-- Example U18
-- Run `WP Tabs both.py`
-- Enter 2 for 1 und 2 Tab
-- Enter Manschaftsindex: See Excel file and count
-- Enter For both teams: Here 4 & 5
-- Enter Ligaindex: Here: 8 & 7
-- Enter Tabname: Here: U18/1 & U18/2
-- Paste on wordpress after: Spielplan & Tabelle
+- Save the data in `input.txt` file
+- Run `WP Tabs Input.py`
 
-#### 2. Using Input file
+### 2. Using Console.txt
 
-- See `WP Tabs both input.py`
-- Use Input file to specify data
+- Run `WP Tabs Input.py`
+- Enter the data when asked
 
-1. Amount
-2. Manschaftsindex `* amount`
-3. Namen `* amount`
+### 3. Using existing presets
 
-```
-2
-4
-5
-Tab 1 Name
-Tab 2 Name
-```
+- See `output/presets`
+- These presets are auto generated with the other methods
+- Autocreates all the widgets that exist from the presets
+
+> Important: \n
+> Open the Excel files and check there for the Index of the Widgets (Liga, Mannschaft) \n
 
 ### Extra
 
-What I did is you can put two widgets together, but that doesnt work for mobile which is why i deleted it.
+- What I did is you can put two widgets next to each other, but that doesn't work for mobile which is why i deleted it!
+- If you only want to see games not table, the is a single folder in output/single, which is not optimized
