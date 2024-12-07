@@ -16,14 +16,33 @@
 
 ### 5. Use the Excel file to generate the widgets
 
+#### 1. Both (Spiele & Tabelle) Widgets
+
 - Example U18
-- Run `Wordpress Tabs beide.py`
+- Run `WP Tabs both.py`
 - Enter 2 for 1 und 2 Tab
 - Enter Manschaftsindex: See Excel file and count
 - Enter For both teams: Here 4 & 5
 - Enter Ligaindex: Here: 8 & 7
 - Enter Tabname: Here: U18/1 & U18/2
 - Paste on wordpress after: Spielplan & Tabelle
+
+#### 2. Using Input file
+
+- See `WP Tabs both input.py`
+- Use Input file to specify data
+
+1. Amount
+2. Manschaftsindex `* amount`
+3. Namen `* amount`
+
+```
+2
+4
+5
+Tab 1 Name
+Tab 2 Name
+```
 
 ### Extra
 
