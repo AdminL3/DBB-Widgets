@@ -32,8 +32,8 @@
 - These presets are auto generated with the other methods
 - Autocreates all the widgets that exist from the presets
 
-> Important: \n
-> Open the Excel files and check there for the Index of the Widgets (Liga, Mannschaft) \n
+> [!Important]
+> Open the Excel files and check there for the Index of the Widgets (Liga, Mannschaft)
 
 ### Extra
 
